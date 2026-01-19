@@ -1,5 +1,5 @@
 # Quick script to get Spreads, Swaps and commission from broker
-# Exported so multi-worksheet xlsx file in working directory
+# Exported to multi-worksheet xlsx file in working directory
 
 import MetaTrader5 as mt5
 import pandas as pd
